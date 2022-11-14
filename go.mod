@@ -1,4 +1,4 @@
-module github.com/Pavlico/rediscache/cacheRedis
+module github.com/Pavlico/cacheRedis
 
 go 1.16
 
