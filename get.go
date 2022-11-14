@@ -1,4 +1,4 @@
-package github.com/Pavlico/rediscache/cacheRedis
+package cacheRedis
 
 import (
 	"context"
